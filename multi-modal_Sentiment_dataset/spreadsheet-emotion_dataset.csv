@@ -1,0 +1,59 @@
+audio_file,transcribed_data,emotion
+Happy01.wav,"""I feel on top of the world!""",Happy
+Sad01.wav,"""I feel lost and confused.""",Sad
+Afraid01.wav,"""I’m afraid we’re in danger.""",Afraid
+Sad02.wav,"""Everything feels so overwhelming.""",Sad
+Sad03.wav,"""I just feel so down today.""",Sad
+Happy02.wav,"""I can’t stop smiling, this is amazing!""",Happy
+Happy03.wav,"""I’m so happy to see you!""",Happy
+Angry01.wav,"""I’ve had enough of this!""",Angry
+Happy04.wav,"""I can’t believe how lucky I am!""",Happy
+Surprised01.wav,"""Wow, I never expected this!""",Surprised
+Afraid02.wav,"""I’m terrified of what might happen.""",Afraid
+Neutral01.wav,"""Today feels like just another day.""",Neutral
+Happy05.wav,"""I just want to enjoy every moment!""",Happy
+Afraid03.wav,"""I feel like something bad is going to happen.""",Afraid
+Surprised02.wav,"""Wow, I’m completely shocked!""",Surprised
+Angry02.wav,"""I can’t believe you did this!""",Angry
+Sad04.wav,"""I just want things to get better.""",Sad
+Angry03.wav,"""This is just ridiculous!""",Angry
+Happy06.wav,"""I’m feeling on top of the world!""",Happy
+Sad05.wav,"""Everything around me is falling apart.""",Sad
+Neutral02.wav,"""Today feels like just another day.""",Neutral
+Afraid04.wav,"""I can’t shake this feeling of dread.""",Afraid
+Happy07.wav,"""You’ve really made my day!""",Happy
+Angry04.wav,"""I’m absolutely livid right now!""",Angry
+Afraid05.wav,"""What if things go wrong?""",Afraid
+Surprised03.wav,"""I’m completely stunned by what I saw!""",Surprised
+Angry05.wav,"""I can’t believe this is happening!""",Angry
+Angry06.wav,"""Why does everything have to go wrong?""",Angry
+Surprised04.wav,"""I can’t believe how unbelievable this is!""",Surprised
+Neutral03.wav,"""I’m just going through the motions today.""",Neutral
+Sad06.wav,"""I feel so lonely today.""",Sad
+Surprised05.wav,"""That was an unbelievable twist!""",Surprised
+Happy08.wav,"""I feel on top of the world!""",Happy
+Sad07.wav,"""Everything seems to be falling apart.""",Sad
+Sad08.wav,"""I feel like I’ve been holding back tears.""",Sad
+Happy09.wav,"""I feel so grateful today.""",Happy
+Surprised06.wav,"""I can’t believe my eyes!""",Surprised
+Surprised07.wav,"""I’m in complete awe right now!""",Surprised
+Angry07.wav,"""Why does this always happen to me?""",Angry
+Neutral04.wav,"""I’m just having a regular day.""",Neutral
+Sad09.wav,"""I’m really sorry it turned out this way.""",Sad
+Happy10.wav,"""I feel so happy, I can’t stop smiling!""",Happy
+Sad10.wav,"""I just feel like giving up.""",Sad
+Afraid06.wav,"""I don’t know what to do, I’m scared.""",Afraid
+Angry08.wav,"""This is completely unacceptable!""",Angry
+Happy11.wav,"""Wow, this is amazing!""",Happy
+Afraid07.wav,"""I can’t shake off this feeling of fear.""",Afraid
+Neutral05.wav,"""I’m feeling fine, just taking it easy.""",Neutral
+Sad11.wav,"""I wish things could be different.""",Sad
+Surprised08.wav,"""What?! That’s unbelievable!""",Surprised
+Happy12.wav,"""I’ve been waiting for this moment!""",Happy
+Neutral06.wav,"""Today is just like any other day.""",Neutral
+Neutral07.wav,"""Everything feels like it's under control.""",Neutral
+Sad12.wav,"""I just feel so down today.""",Sad
+Surprised09.wav,"""I can’t believe my eyes!""",Surprised
+Happy13.wav,"""Wow, this is amazing!""",Happy
+Happy14.wav,"""I can’t stop smiling today!""",Happy
+Sad13.wav,"""Everything seems to be falling apart.""",Sad
